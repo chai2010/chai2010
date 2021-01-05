@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+蚂蚁杭州 - 编程语言方向(云原生工程系统) 招聘, 欢迎对语言设计和实现有兴趣，有Go、Python等多种语言基础的同学加入。联系方式：chaishushan[@>gmail.com, shushan.css<@]alibaba-inc.com
+
+
 <!--
 **chai2010/chai2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
