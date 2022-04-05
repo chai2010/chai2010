@@ -15,17 +15,17 @@
 		</td>
 		<td>
 			<ul>
-			<li><a href="https://github.com/chai2010/wasm-book-code">《WebAssembly标准入门》</a></li>
-			<li><a href="https://github.com/chai2010/advanced-go-programming-book">《Go语言高级编程》</a>Github 16.9K Star</li>
-			<li><a href="https://github.com/3dgen/cppwasm-book">《面向WebAssembly编程》</a>Github 1.1K Star</li>
-			<li><a href="https://github.com/chai2010/go-ast-book">《Go语言定制指南》</a>Github 4.2K Star</li>
-			<li><a href="https://github.com/wa-lang/ugo-compiler-book">《µGo语言实现(从头开发一个迷你Go语言编译器)》</a>Github 930 Star</li>
+			<li><a href="https://github.com/chai2010/wasm-book-code">《WebAssembly标准入门》</a>- 2018</li>
+			<li><a href="https://github.com/chai2010/advanced-go-programming-book">《Go语言高级编程》</a>-2019, 16.9K Star</li>
+			<li><a href="https://github.com/3dgen/cppwasm-book">《面向WebAssembly编程》</a>- 2020, 1.1K Star</li>
+			<li><a href="https://github.com/chai2010/go-ast-book">《Go语言定制指南》</a>- 2022, 4.2K Star</li>
+			<li><a href="https://github.com/wa-lang/ugo-compiler-book">《µGo语言实现(从头开发一个迷你Go编译器)》</a>- Doing, 930 Star</li>
 			</ul>
 		</td>
 		<td>
 			<ul>
-			<li><a href="https://book.douban.com/subject/4033320">《学习OpenCV》</a></li>
-			<li><a href="https://github.com/golang-china/gopl-zh">《Go语言圣经》</a></li>
+			<li><a href="https://book.douban.com/subject/4033320">《学习OpenCV》</a>- 2009</li>
+			<li><a href="https://github.com/golang-china/gopl-zh">《Go语言圣经》</a>- 2015</li>
 			</ul>
 		</td>
 	</tr>
