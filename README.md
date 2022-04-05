@@ -1,7 +1,7 @@
 ## 语言
 
 - [Tiny玩具语言](https://github.com/chai2010/tinylang)
-- [狗头玩具语句](https://github.com/chai2010/gotlang)
+- [狗头玩具语言](https://github.com/chai2010/gotlang)
 - [uGo玩具语言](https://github.com/wa-lang/ugo)
 - [凹语言(还是)玩具语言](https://github.com/wa-lang)
 
