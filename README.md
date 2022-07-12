@@ -31,6 +31,8 @@
 	</tr>
 </table>
 
+- *KusonStack一站式可编程配置技术栈: https://github.com/KusionStack/kusion*
+- *KCL配置编程语言: https://github.com/KusionStack/KCLVM*
 
 <!--
 **chai2010/chai2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
