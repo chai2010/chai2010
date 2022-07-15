@@ -9,9 +9,9 @@
 	<tr>
 		<td>
 			<ul>
-			<li><a href="https://github.com/chai2010/tinylang">Tiny玩具语言</a></li>
-			<li><a href="https://github.com/chai2010/gotlang">狗头玩具语言</a></li>
-			<li><a href="https://github.com/wa-lang/ugo">uGo玩具语言</a></li>
+			<li><a href="https://github.com/chai2010/tinylang">Tiny玩具语言(C和Go两个版本)</a></li>
+			<li><a href="https://github.com/chai2010/gotlang">狗头玩具语言(Go)</a></li>
+			<li><a href="https://github.com/wa-lang/ugo">uGo玩具语言(Go)</a></li>
 			<li><a href="https://github.com/KusionStack/KCLVM">KCL配置策略语言(Rust)</a></li>
 			</ul>
 		</td>
