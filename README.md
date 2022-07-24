@@ -13,6 +13,7 @@
 			<li><a href="https://github.com/chai2010/gotlang">狗头玩具语言(Go)</a></li>
 			<li><a href="https://github.com/wa-lang/ugo">uGo玩具语言(Go)</a></li>
 			<li><a href="https://github.com/KusionStack/KCLVM">KCL配置策略语言(Rust)</a></li>
+			<li><a href="https://github.com/wa-lang/wa">凹语言™</a></li>
 			</ul>
 		</td>
 		<td>
@@ -35,6 +36,7 @@
 
 - *KusonStack一站式可编程配置技术栈: https://github.com/KusionStack/kusion*
 - *KCL配置编程语言: https://github.com/KusionStack/KCLVM*
+- *凹语言™: https://github.com/wa-lang/wa*
 
 <!--
 **chai2010/chai2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
