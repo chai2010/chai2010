@@ -23,6 +23,7 @@
 			<li><a href="https://github.com/3dgen/cppwasm-book">《面向WebAssembly编程》</a>- 2020, 1.1K Star</li>
 			<li><a href="https://github.com/chai2010/go-ast-book">《Go语言定制指南》</a>- 2022, 4.2K Star</li>
 			<li><a href="https://github.com/wa-lang/ugo-compiler-book">《µGo语言实现(从头开发一个迷你Go编译器)》</a>- Doing</li>
+			<li><a href="https://github.com/awesome-kusion/kusion-cookbook">《Kusion Cookbook 中文版》</a>- Doing/整理/社区共建</li>
 			</ul>
 		</td>
 		<td>
