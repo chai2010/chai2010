@@ -13,17 +13,17 @@
 			<li><a href="https://github.com/chai2010/gotlang">狗头玩具语言(Go)</a></li>
 			<li><a href="https://github.com/wa-lang/ugo">uGo玩具语言(Go)</a></li>
 			<li><a href="https://github.com/KusionStack/KCLVM">KCL配置策略语言(Rust)</a></li>
-			<li><a href="https://github.com/wa-lang/wa">凹语言™ (Go/WebAssembly) 🇨🇳</a></li>
+			<li><a href="https://github.com/wa-lang/wa">凹语言™ (Go/Rust/WebAssembly) 🇨🇳</a></li>
 			</ul>
 		</td>
 		<td>
 			<ul>
 			<li><a href="https://github.com/chai2010/wasm-book-code">《WebAssembly标准入门》</a>- 2018</li>
-			<li><a href="https://github.com/chai2010/advanced-go-programming-book">《Go语言高级编程》</a>-2019, 16.9K Star</li>
+			<li><a href="https://github.com/chai2010/advanced-go-programming-book">《Go语言高级编程》</a>-2019, 17.4K Star</li>
 			<li><a href="https://github.com/3dgen/cppwasm-book">《面向WebAssembly编程》</a>- 2020, 1.1K Star</li>
-			<li><a href="https://github.com/chai2010/go-ast-book">《Go语言定制指南》</a>- 2022, 4.2K Star</li>
+			<li><a href="https://github.com/chai2010/go-ast-book">《Go语言定制指南》</a>- 2022, 4.6K Star</li>
 			<li><a href="https://github.com/wa-lang/ugo-compiler-book">《µGo语言实现(从头开发一个迷你Go编译器)》</a>- 暂停</li>
-			<li><a href="https://github.com/awesome-kusion/kusion-cookbook">《Kusion Cookbook 中文版》</a>- Doing/整理/社区共建 🇨🇳</li>
+			<li><a href="https://github.com/awesome-kusion/kusion-cookbook">《Kusion Cookbook 中文版》</a>- Doing/社区共建 🇨🇳</li>
 			</ul>
 		</td>
 		<td>
