@@ -29,7 +29,7 @@
 		<td>
 			<ul>
 			<li><a href="https://book.douban.com/subject/4033320">《学习OpenCV》</a>- 2009</li>
-			<li><a href="https://github.com/golang-china/gopl-zh">《Go语言圣经》</a>- 2015</li>
+			<li><a href="https://gopl-zh.github.io">《Go语言圣经》</a>- 2015</li>
 			</ul>
 		</td>
 	</tr>
