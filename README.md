@@ -1,4 +1,4 @@
-### 直播公告：每周四晚7点，微信视频号“光谷码农”：跟着柴大一起重读[《Go语言圣经》](https://github.com/golang-china/gopl-zh)，欢迎参与！
+### 直播公告：每周四晚7点，微信视频号“光谷码农”：跟着柴大一起重读[《Go语言圣经》](https://gopl-zh.github.io)，欢迎参与！
 
 <table>
 <tr>
