@@ -25,7 +25,6 @@
 			<li><a href="https://github.com/wa-lang/ugo-compiler-book">《µGo语言实现(从头开发一个迷你Go编译器)》</a>- 暂停</li>
 			<li><a href="https://github.com/china-programming-languages/main">《中国编程语言》</a>- Doing  🇨🇳 </li>
 			<li><a href="https://github.com/vscode-extdev-book">《VS Code 插件开发》</a>- TODO </li>
-
 			</ul>
 		</td>
 		<td>
