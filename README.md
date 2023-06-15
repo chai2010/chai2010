@@ -36,9 +36,8 @@
 	</tr>
 </table>
 
-- *KusonStack一站式可编程配置技术栈(Go): https://github.com/KusionStack/kusion*
-- *KCL 配置编程语言(Rust): https://github.com/KusionStack/KCLVM*
-- *凹语言™: https://github.com/wa-lang/wa*
+- *KCL 配置编程语言(Rust): https://github.com/KusionStack/kcl*
+- *凹语言: https://github.com/wa-lang/wa*
 
 <!--
 **chai2010/chai2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
