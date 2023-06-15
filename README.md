@@ -1,7 +1,5 @@
 ### 公告：欢迎报名 GLCC2023 开源夏令营课题：[凹语言天干地支库](https://www.gitlink.org.cn/glcc/2023/subjects/detail/683) 和 [KCL 语言课题](https://www.gitlink.org.cn/glcc/2023/subjects/detail/799)
 
-每周四晚7点，微信视频号“光谷码农”：跟着柴大一起重读[《Go语言圣经》](https://gopl-zh.github.io)，欢迎参与！
-
 <table>
 <tr>
 	<th>语言</th>
