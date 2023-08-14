@@ -13,7 +13,7 @@
 			<li><a href="https://github.com/chai2010/gotlang">狗头玩具语言(Go)</a></li>
 			<li><a href="https://github.com/wa-lang/ugo">uGo玩具语言(Go)</a></li>
 			<li><a href="https://github.com/KusionStack/KCLVM">KCL语言(Rust) - 600+ Star</a></li>
-			<li><a href="https://github.com/wa-lang/wa">凹语言(WebAssembly) - 600+ Star</a></li>
+			<li><a href="https://github.com/wa-lang/wa">凹语言(WASM) - 600+ Star</a></li>
 			</ul>
 		</td>
 		<td>
@@ -22,7 +22,7 @@
 			<li><a href="https://github.com/chai2010/advanced-go-programming-book">《Go语言高级编程》</a>-2019, 18.6K Star</li>
 			<li><a href="https://github.com/3dgen/cppwasm-book">《面向WebAssembly编程》</a>- 2020, 1.3K Star</li>
 			<li><a href="https://github.com/chai2010/go-ast-book">《Go语言定制指南》</a>- 2022, 5K Star</li>
-			<li><a href="https://github.com/wa-lang/ugo-compiler-book">《µGo语言实现(从头开发一个迷你Go编译器)》</a>- 暂停</li>
+			<li><a href="https://github.com/wa-lang/ugo-compiler-book">《µGo语言实现》</a>- 暂停</li>
 			<li><a href="https://github.com/china-programming-languages/main">《中国编程语言》</a>- Doing  🇨🇳 </li>
 			<li><a href="https://github.com/chai2010/vscode-extdev-book">《VS Code 插件开发》</a>- TODO </li>
 			</ul>
