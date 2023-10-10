@@ -1,4 +1,4 @@
-![image](https://github.com/chai2010/chai2010/assets/2295542/1f4c7dba-51e0-47f7-98a1-371aebe6d75d)### 公告：欢迎报名 GLCC2023 开源夏令营课题：[凹语言天干地支库](https://www.gitlink.org.cn/glcc/2023/subjects/detail/683) 和 [KCL 语言课题](https://www.gitlink.org.cn/glcc/2023/subjects/detail/799)
+### 公告：欢迎报名 GLCC2023 开源夏令营课题：[凹语言天干地支库](https://www.gitlink.org.cn/glcc/2023/subjects/detail/683) 和 [KCL 语言课题](https://www.gitlink.org.cn/glcc/2023/subjects/detail/799)
 
 <table>
 <tr>
@@ -37,7 +37,7 @@
 
 - *凹语言(专为 WebAssembly 设计): https://github.com/wa-lang/wa*
 - *KCL 配置语言(Rust): https://github.com/kcl-lang/kcl*
-- *Go版MDBook: https://github.com/chai2010/mdbook-go*
+- *Go语言版MDBook: https://github.com/chai2010/mdbook-go*
 
 <!--
 **chai2010/chai2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
