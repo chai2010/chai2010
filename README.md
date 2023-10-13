@@ -37,7 +37,7 @@
 
 - *凹语言(专为 WebAssembly 设计): https://github.com/wa-lang/wa*
 - *KCL 配置语言(Rust): https://github.com/kcl-lang/kcl*
-- *Go语言版MDBook: https://github.com/chai2010/mdbook-go*
+- *Go语言版MDBook: https://github.com/wa-lang/mnbook*
 
 <!--
 **chai2010/chai2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
