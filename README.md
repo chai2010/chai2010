@@ -9,11 +9,11 @@
 	<tr>
 		<td>
 			<ul>
-			<li><a href="https://github.com/chai2010/tinylang">Tiny玩具语言(C和Go两个版本)</a></li>
-			<li><a href="https://github.com/chai2010/gotlang">狗头玩具语言(Go)</a></li>
-			<li><a href="https://github.com/wa-lang/ugo">uGo玩具语言(Go)</a></li>
-			<li><a href="https://github.com/KusionStack/KCLVM">KCL语言(Rust)</a> - 800+ Star</li>
 			<li><a href="https://github.com/wa-lang/wa">凹语言(WASM)</a> - 600+ Star</li>
+			<li><a href="https://github.com/KusionStack/KCLVM">KCL语言(Rust)</a> - 900+ Star</li>
+			<li><a href="https://github.com/wa-lang/ugo">uGo玩具语言(Go)</a></li>
+			<li><a href="https://github.com/chai2010/gotlang">狗头玩具语言(Go)</a></li>
+			<li><a href="https://github.com/chai2010/tinylang">Tiny玩具语言(C和Go两个版本)</a></li>
 			</ul>
 		</td>
 		<td>
