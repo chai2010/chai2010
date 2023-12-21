@@ -1,4 +1,3 @@
-### 公告：欢迎报名 GLCC2023 开源夏令营课题：[凹语言天干地支库](https://www.gitlink.org.cn/glcc/2023/subjects/detail/683) 和 [KCL 语言课题](https://www.gitlink.org.cn/glcc/2023/subjects/detail/799)
 
 <table>
 <tr>
