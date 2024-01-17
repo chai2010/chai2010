@@ -8,7 +8,7 @@
 	<tr>
 		<td>
 			<ul>
-			<li><a href="https://github.com/wa-lang/wa">凹语言(WASM)</a> - 600+ Star</li>
+			<li><a href="https://github.com/wa-lang/wa">凹语言(WASM)</a> - 700+ Star</li>
 			<li><a href="https://github.com/KusionStack/KCLVM">KCL语言(Rust)</a> - 1000+ Star</li>
 			<li><a href="https://github.com/wa-lang/ugo">uGo玩具语言(Go)</a></li>
 			<li><a href="https://github.com/chai2010/gotlang">狗头玩具语言(Go)</a></li>
@@ -33,10 +33,6 @@
 		</td>
 	</tr>
 </table>
-
-- *凹语言(专为 WebAssembly 设计): https://github.com/wa-lang/wa*
-- *KCL 配置语言(Rust): https://github.com/kcl-lang/kcl*
-- *Markdown图书构建: https://github.com/wa-lang/mnbook*
 
 <!--
 **chai2010/chai2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
