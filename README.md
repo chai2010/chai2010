@@ -62,7 +62,8 @@
 ## 联系方式
 
 - 微信: `chaishushan-weixin`
-- 邮箱：`chaishushan{AT}gmail.com`
+- 邮箱: `chaishushan{AT}gmail.com`
+- 博客: https://chai2010.cn/
 
 <!--
 **chai2010/chai2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
