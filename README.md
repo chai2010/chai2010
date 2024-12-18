@@ -45,13 +45,14 @@
 
 ## 技术分享
 
-- 2024 - [凹语言map与Φ指令的纠葛](https://wa-lang.org/talks/ssa-bug/)
-- 2021 - [如何基于Go语言和Go编译器定制语言](https://wa-lang.org/ugo-compiler-book/talks/go-compiler-intro.html)
+- 2024 - [凹语言map与Φ指令的纠葛](https://wa-lang.org/talks/ssa-bug/) - Moonbit 上海 Meetup
+- 2021 - [如何基于Go语言和Go编译器定制语言](https://wa-lang.org/ugo-compiler-book/talks/go-compiler-intro.html) - Go+ 公开课第9期
+- 2021 - [KCL声明式的云原生配置策略语言](https://segmentfault.com/a/1190000040455559) GIAC
 - 2018 - [深入CGO编程](https://chai2010.cn/gopherchina2018-cgo-talk/) GopherChina·上海
 - 2018 - [Go&WebAssembly简介](https://github.com/golang-china/awesome-go-zh/blob/master/chai2010/chai2010-golang-wasm.slide) - Go·夜读
 - 2018 - [Go语言将走向何方](https://github.com/golang-china/awesome-go-zh/tree/master/chai2010/giac2018) GIAC
-- 2018 - [Go语言并发编程](https://github.com/golang-china/awesome-go-zh/blob/master/chai2010/chai2010-golang-concurrency.slide)
-- 2011 - [Go集成C/C++代码](https://github.com/chai2010/gopherchina2018-cgo-talk/blob/master/chai2010-cgo-talk-sz-20110207.pdf)
+- 2018 - [Go语言并发编程](https://github.com/golang-china/awesome-go-zh/blob/master/chai2010/chai2010-golang-concurrency.slide) 武汉·光谷猫友会
+- 2011 - [Go集成C/C++代码](https://github.com/chai2010/gopherchina2018-cgo-talk/blob/master/chai2010-cgo-talk-sz-20110207.pdf) 珠三角技术沙龙深圳
 
 ## 媒体报道
 
