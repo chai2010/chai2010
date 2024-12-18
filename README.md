@@ -57,6 +57,10 @@
 - [im4corner](https://github.com/chai2010/im4corner): Google输入法四角号码扩展
 - [vimpinyin](https://github.com/chai2010/vimpinyin): Vim拼音输入法
 
+## 联系方式
+
+- 微信: `chaishushan-weixin`
+- 邮箱：`chaishushan{AT}gmail.com`
 
 <!--
 **chai2010/chai2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
