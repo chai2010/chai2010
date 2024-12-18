@@ -57,6 +57,10 @@
 - [im4corner](https://github.com/chai2010/im4corner): Google输入法四角号码扩展
 - [vimpinyin](https://github.com/chai2010/vimpinyin): Vim拼音输入法
 
+## 媒体报道
+
+- 文汇报2024/8/31期: [凹语言联合发起人不为难，抢占编程语言话语权](https://dzb.whb.cn/imgPath/2024-08-29/40829.pdf)
+
 ## 联系方式
 
 - 微信: `chaishushan-weixin`
