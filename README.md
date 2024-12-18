@@ -41,6 +41,16 @@
 	</tr>
 </table>
 
+## 次要作品
+
+- [WaBook](https://github.com/wa-lang/wabook) - Go语言实现的电子书和在线PPT生成，已经服务于我的多个项目
+- [tiff](https://github.com/chai2010/tiff) - Go语言实现的TIFF解码库，10年前作品
+- [webp](https://github.com/chai2010/webp) - 基于CGO封装的WebP图像编解码库，被多个图像处理工具依赖
+- [gettext-go](https://github.com/chai2010/gettext-go) - Go语言的多语言支持库，**被K8S依赖**，10年前作品
+- [pbgo](https://github.com/chai2010/pbgo) - 基于Protobuf封装的迷你Web框架，支持插件生成框架代码
+- [cc-mini-test](https://github.com/chai2010/cc-mini-test) - 迷你版的C++测试库，只有2个独立文件，可替代GTest
+- [defer](https://github.com/chai2010/defer) - 为C++定制的defer宏
+
 
 <!--
 **chai2010/chai2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
