@@ -6,40 +6,25 @@
 
 作为80后码农开始规划后半生的职业方向，希望未来能够继续参与到国产编程语言的探索和完善工作，同时为国内计算机信息学编程启蒙和普及作一些贡献。如果你也有类似的想法欢迎交流。
 
-## 主要作品
+## 编程语言
 
-<table>
-<tr>
-	<th>语言(原创)</th>
-	<th>图书(原创)</th>
-	<th>图书(翻译)</th>
-</tr>
-	<tr>
-		<td>
-			<ul>
-			<li><a href="https://github.com/wa-lang/wa">凹语言(WASM)</a> - 1300+ Star</li>
-			<li><a href="https://github.com/wa-lang/ugo">uGo玩具语言(Go)</a></li>
-			<li><a href="https://github.com/chai2010/gotlang">狗头玩具语言(Go)</a></li>
-			<li><a href="https://github.com/chai2010/tinylang">Tiny玩具语言(C和Go两个版本)</a></li>
-			</ul>
-		</td>
-		<td>
-			<ul>
-			<li><a href="https://github.com/chai2010/wasm-book-code">《WebAssembly标准入门》</a>- 2018</li>
-			<li><a href="https://github.com/chai2010/advanced-go-programming-book">《Go语言高级编程》</a>-2019, 19.5K Star</li>
-			<li><a href="https://github.com/3dgen/cppwasm-book">《面向WebAssembly编程》</a>- 2020, 1.4K Star</li>
-			<li><a href="https://github.com/chai2010/go-ast-book">《Go语言定制指南》</a>- 2022, 5.4K Star</li>
-			<li><a href="https://github.com/wa-lang/ugo-compiler-book">《µGo语言实现》</a>- Doing, 1.5K Star</li>
-			</ul>
-		</td>
-		<td>
-			<ul>
-			<li><a href="https://book.douban.com/subject/4033320">《学习OpenCV》</a>- 2009</li>
-			<li><a href="https://gopl-zh.github.io">《Go语言圣经》</a>- 2015</li>
-			</ul>
-		</td>
-	</tr>
-</table>
+- 凹语言, 1.3K Star: https://github.com/wa-lang/wa
+- uGo玩具语言: https://github.com/wa-lang/ugo
+- 狗头玩具语言: https://github.com/chai2010/gotlang
+- Tiny玩具语言: https://github.com/chai2010/tinylang
+
+## 图书作品
+
+- 《WebAssembly标准入门》- 2018: https://github.com/chai2010/wasm-book-code
+- 《Go语言高级编程》-2019, 19.5K Star: https://github.com/chai2010/advanced-go-programming-book
+- 《面向WebAssembly编程》- 2020, 1.4K Star: https://github.com/3dgen/cppwasm-book
+- 《Go语言定制指南》- 2022, 5.4K Star: https://github.com/chai2010/go-ast-book
+- 《µGo语言实现》- Doing, 1.5K Star: https://github.com/wa-lang/ugo-compiler-book
+
+图书翻译:
+
+- 《Go语言圣经》- 2015, 4.5K Star: https://gopl-zh.github.io
+- 《学习OpenCV》- 2009: https://book.douban.com/subject/4033320
 
 ## 次要作品
 
