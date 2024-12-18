@@ -50,6 +50,7 @@
 - [pbgo](https://github.com/chai2010/pbgo) - 基于Protobuf封装的迷你Web框架，支持插件生成框架代码
 - [cc-mini-test](https://github.com/chai2010/cc-mini-test) - 迷你版的C++测试库，只有2个独立文件，可替代GTest
 - [defer](https://github.com/chai2010/defer) - 为C++定制的defer宏
+- [opencv-go](https://github.com/chai2010/opencv) - Go社区第一个基于CGO封装的OpenCV库，10年前作品
 
 
 <!--
