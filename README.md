@@ -47,10 +47,15 @@
 - [tiff](https://github.com/chai2010/tiff) - Go语言实现的TIFF解码库，10年前作品
 - [webp](https://github.com/chai2010/webp) - 基于CGO封装的WebP图像编解码库，被多个图像处理工具依赖
 - [gettext-go](https://github.com/chai2010/gettext-go) - Go语言的多语言支持库，**被K8S依赖**，10年前作品
-- [pbgo](https://github.com/chai2010/pbgo) - 基于Protobuf封装的迷你Web框架，支持插件生成框架代码
+- [pbgo](https://github.com/chai2010/pbgo) - 基于Protobuf封装的迷你Web框架，支持protoc插件生成框架代码
 - [cc-mini-test](https://github.com/chai2010/cc-mini-test) - 迷你版的C++测试库，只有2个独立文件，可替代GTest
 - [defer](https://github.com/chai2010/defer) - 为C++定制的defer宏
 - [opencv-go](https://github.com/chai2010/opencv) - Go社区第一个基于CGO封装的OpenCV库，10年前作品
+- [莆田医院](https://github.com/chai2010/ptyy) - 基于Go开发的iOS应用
+- [protorpc](https://github.com/chai2010/protorpc) - 基于Protobuf的RPC框架，支持Go/C++跨语言通信，支持protoc插件
+- [base60](https://github.com/chai2010/base60): 自主设计的天干地支编码: 乙丑癸巳甲寅己亥丁卯甲申丁未甲午己巳
+- [im4corner](https://github.com/chai2010/im4corner): Google输入法四角号码扩展
+- [vimpinyin](https://github.com/chai2010/vimpinyin): Vim拼音输入法
 
 
 <!--
