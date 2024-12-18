@@ -28,6 +28,7 @@
 
 ## 次要作品
 
+- [wat-go](https://github.com/chai2010/wat-go): WebAssembly文本格式工具
 - [WaBook](https://github.com/wa-lang/wabook) - Go语言实现的电子书和在线PPT生成，已经服务于我的多个项目
 - [tiff](https://github.com/chai2010/tiff) - Go语言实现的TIFF解码库，10年前作品
 - [webp](https://github.com/chai2010/webp) - 基于CGO封装的WebP图像编解码库，被多个图像处理工具依赖
