@@ -8,8 +8,7 @@
 	<tr>
 		<td>
 			<ul>
-			<li><a href="https://github.com/wa-lang/wa">凹语言(WASM)</a> - 700+ Star</li>
-			<li><a href="https://github.com/KusionStack/KCLVM">KCL语言(Rust)</a> - 1000+ Star</li>
+			<li><a href="https://github.com/wa-lang/wa">凹语言(WASM)</a> - 1300+ Star</li>
 			<li><a href="https://github.com/wa-lang/ugo">uGo玩具语言(Go)</a></li>
 			<li><a href="https://github.com/chai2010/gotlang">狗头玩具语言(Go)</a></li>
 			<li><a href="https://github.com/chai2010/tinylang">Tiny玩具语言(C和Go两个版本)</a></li>
@@ -22,7 +21,6 @@
 			<li><a href="https://github.com/3dgen/cppwasm-book">《面向WebAssembly编程》</a>- 2020, 1.3K Star</li>
 			<li><a href="https://github.com/chai2010/go-ast-book">《Go语言定制指南》</a>- 2022, 5K Star</li>
 			<li><a href="https://github.com/wa-lang/ugo-compiler-book">《µGo语言实现》</a>- 暂停</li>
-			<li><a href="https://github.com/chai2010/vscode-extdev-book">《VS Code 插件开发》</a>- Doing</li>
 			</ul>
 		</td>
 		<td>
