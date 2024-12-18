@@ -43,6 +43,16 @@
 - [im4corner](https://github.com/chai2010/im4corner): Google输入法四角号码扩展
 - [vimpinyin](https://github.com/chai2010/vimpinyin): Vim拼音输入法
 
+## 技术分享
+
+- 2024 - [凹语言map与Φ指令的纠葛](https://wa-lang.org/talks/ssa-bug/)
+- 2021 - [如何基于Go语言和Go编译器定制语言](https://wa-lang.org/ugo-compiler-book/talks/go-compiler-intro.html)
+- 2018 - [深入CGO编程](https://chai2010.cn/gopherchina2018-cgo-talk/) GopherChina·上海
+- 2018 - [Go&WebAssembly简介](https://github.com/golang-china/awesome-go-zh/blob/master/chai2010/chai2010-golang-wasm.slide) - Go·夜读
+- 2018 - [Go语言将走向何方](https://github.com/golang-china/awesome-go-zh/tree/master/chai2010/giac2018) GIAC
+- 2018 - [Go语言并发编程](https://github.com/golang-china/awesome-go-zh/blob/master/chai2010/chai2010-golang-concurrency.slide)
+- 2011 - [Go集成C/C++代码](https://github.com/chai2010/gopherchina2018-cgo-talk/blob/master/chai2010-cgo-talk-sz-20110207.pdf)
+
 ## 媒体报道
 
 - 文汇报2024/8/31期: [凹语言联合发起人柴树杉——「爱好者」不为难，抢占编程语言话语权](https://dzb.whb.cn/imgPath/2024-08-29/40829.pdf)
