@@ -8,7 +8,7 @@
 
 ## 编程语言
 
-- 凹语言, 1.3K Star: https://github.com/wa-lang/wa
+- 凹语言, 1.3K Star: https://github.com/wa-lang/wa, https://wa-lang.org/
 - uGo玩具语言: https://github.com/wa-lang/ugo
 - 狗头玩具语言: https://github.com/chai2010/gotlang
 - Tiny玩具语言: https://github.com/chai2010/tinylang
