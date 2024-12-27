@@ -45,7 +45,7 @@
 
 ## 技术分享
 
-- 2024 - [开源社区的黑暗思考](https://mp.weixin.qq.com/s/tuoRvoW0zkv--ls6z7hpRA) - 宁波开源“火种”项目发布暨开源社建设涩交流研讨会
+- 2024 - [开源社区的黑暗思考](https://mp.weixin.qq.com/s/tuoRvoW0zkv--ls6z7hpRA) - 宁波开源“火种”项目发布暨开源社建设交流研讨会
 - 2024 - [凹语言map与Φ指令的纠葛](https://wa-lang.org/talks/ssa-bug/) - Moonbit 上海 Meetup
 - 2021 - [如何基于Go语言和Go编译器定制语言](https://wa-lang.org/ugo-compiler-book/talks/go-compiler-intro.html) - Go+ 公开课第9期
 - 2021 - [KCL声明式的云原生配置策略语言](https://segmentfault.com/a/1190000040455559) GIAC深圳
