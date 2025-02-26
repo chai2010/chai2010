@@ -23,6 +23,7 @@
 - 《面向WebAssembly编程》- 2020, 1.4K Star: https://github.com/3dgen/cppwasm-book
 - 《Go语言定制指南》- 2022, 5.4K Star: https://github.com/chai2010/go-ast-book
 - 《µGo语言实现》- Doing, 1.5K Star: https://github.com/wa-lang/ugo-compiler-book
+- 《Go和大语言模型编程》- Doing: https://github.com/chai2010/llmgo-book
 
 图书翻译:
 
