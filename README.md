@@ -29,6 +29,7 @@
 - 《Go语言高级编程》-2019, 19.5K Star: https://github.com/chai2010/advanced-go-programming-book
 - 《面向WebAssembly编程》- 2020, 1.4K Star: https://github.com/3dgen/cppwasm-book
 - 《Go语言定制指南》- 2022, 5.4K Star: https://github.com/chai2010/go-ast-book
+- 《Go语言高级编程·第二版》-2025, 已交稿, 出版校验中
 
 图书翻译:
 
