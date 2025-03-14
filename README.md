@@ -8,7 +8,8 @@
 
 ## 编程语言
 
-- 凹语言, 1.5K Star: https://github.com/wa-lang/wa, https://wa-lang.org/
+- 凹语言(联合发起人): https://github.com/wa-lang/wa, https://wa-lang.org/
+- Go语言(贡献者): https://github.com/golang/image/commits?author=chai2010
 
 玩具语言:
 
