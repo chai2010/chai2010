@@ -9,7 +9,7 @@
 ## 编程语言
 
 - 凹语言(联合发起人): https://github.com/wa-lang/wa, https://wa-lang.org/
-- Go语言(贡献者): https://github.com/golang/image/commits?author=chai2010
+- Go语言(贡献者): https://github.com/golang/image/commits?author=chai2010, https://github.com/golang/go/blob/go1.2/CONTRIBUTORS#L115
 
 玩具语言:
 
