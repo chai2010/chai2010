@@ -58,8 +58,7 @@
 
 - 2024 - [开源社区的黑暗思考](https://mp.weixin.qq.com/s/tuoRvoW0zkv--ls6z7hpRA) - 宁波开源“火种”项目发布暨开源社建设交流研讨会
 - 2024 - [凹语言map与Φ指令的纠葛](https://wa-lang.org/talks/ssa-bug/) - Moonbit 上海 Meetup
-- 2021 - [如何基于Go语言和Go编译器定制语言](https://wa-lang.org/ugo-compiler-book/talks/go-compiler-intro.html) - Go+ 公开课第9期
-- 2021 - [KCL声明式的云原生配置策略语言](https://segmentfault.com/a/1190000040455559) GIAC深圳
+- 2021 - [如何基于Go语言和Go编译器定制语言](https://wa-lang.org/ugo-compiler-book/talks/go-compiler-intro.html)
 - 2018 - [深入CGO编程](https://chai2010.cn/gopherchina2018-cgo-talk/) GopherChina·上海
 - 2018 - [Go&WebAssembly简介](https://github.com/golang-china/awesome-go-zh/blob/master/chai2010/chai2010-golang-wasm.slide) - Go·夜读
 - 2018 - [Go语言将走向何方](https://github.com/golang-china/awesome-go-zh/tree/master/chai2010/giac2018) GIAC上海
