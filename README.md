@@ -20,11 +20,6 @@
 
 ## 图书作品
 
-写作中：
-
-- 《Go和大语言模型编程》- 暂停: https://github.com/chai2010/llmgo-book
-- 《µGo语言实现》- 暂停, 1.5K Star: https://github.com/wa-lang/ugo-compiler-book
-
 已经出版：
 
 - 《Go语言高级编程·第二版》-2025, 豆瓣: https://book.douban.com/subject/37436371/
@@ -37,6 +32,12 @@
 
 - 《Go语言圣经》- 2015, 4.5K Star: https://gopl-zh.github.io
 - 《学习OpenCV》- 2009: https://book.douban.com/subject/4033320
+
+暂停中：
+
+- 《Go和大语言模型编程》- 暂停: https://github.com/chai2010/llmgo-book
+- 《µGo语言实现》- 暂停, 1.5K Star: https://github.com/wa-lang/ugo-compiler-book
+
 
 ## 次要作品
 
