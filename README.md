@@ -22,12 +22,12 @@
 
 写作中：
 
-- 《Go和大语言模型编程》- 开足马力中: https://github.com/chai2010/llmgo-book
+- 《Go和大语言模型编程》- 暂停: https://github.com/chai2010/llmgo-book
 - 《µGo语言实现》- 暂停, 1.5K Star: https://github.com/wa-lang/ugo-compiler-book
 
 已经出版：
 
-- 《Go语言高级编程·第二版》-2025, 已交稿, 出版校验中
+- 《Go语言高级编程·第二版》-2025, 豆瓣: https://book.douban.com/subject/37436371/
 - 《Go语言定制指南》- 2022, 5.4K Star: https://github.com/chai2010/go-ast-book
 - 《面向WebAssembly编程》- 2020, 1.4K Star: https://github.com/3dgen/cppwasm-book
 - 《Go语言高级编程》-2019, 19.5K Star: https://github.com/chai2010/advanced-go-programming-book
