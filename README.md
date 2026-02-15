@@ -7,6 +7,40 @@
 - 小目标：写10本书+做一个非玩具的语言，简称非常10+1。
 - 小进展：已正式出版5本书；凹语言走过5年已完成全部语言特性，实现基于国产龙芯架构的编译器、汇编器、链接器全链路自研，处于生产试用阶段。
 
+
+```mermaid
+graph LR
+    wa_ext(凹语言英文.wa);
+    wz_ext(凹语言中文.wz);
+
+    wa_ast(凹语言英文 AST);
+    wz_ast(凹语言中文 AST);
+    
+    wair(凹语言IR);
+
+    wasm(WASM);
+    nasm(凹语言汇编器);
+    c_cpp(C/C++);
+
+    x64(X64);
+    loong64(龙芯64);
+    riscv(RISCV);
+
+    wa_ext --> wa_ast;
+    wz_ext --> wz_ast;
+
+    wa_ast --> wair;
+    wz_ast --> wair;
+
+    wair --> wasm
+    wair --> nasm
+    wair --> c_cpp
+
+    nasm --> loong64
+    nasm --> x64
+    nasm --> riscv
+```
+
 ## 编程语言
 
 - 凹语言(联合发起人): https://github.com/wa-lang/wa, https://wa-lang.org/
